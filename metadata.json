@@ -1,0 +1,8 @@
+{
+  "name": "Microsoft Infinity",
+  "description": "An all-in-one smart productivity suite powered by Gemini AI, integrating documents, spreadsheets, presentations, databases, drawings, and video editing in a unified cloud interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
